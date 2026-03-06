@@ -25,6 +25,7 @@ public class Principal {
         Podcast meuPodcast = new Podcast();
         meuPodcast.setTitulo("TibiaNews");
         meuPodcast.setApresentador("Minus o mago");
+        meuPodcast.setDescricao("Podcast mais BADALADO do momento news");
 
         for (int i = 0; i < 5000; i++) {
 
